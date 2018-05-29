@@ -4,7 +4,10 @@
 ![Diagram](diagram.png)
 
 ### 1st Prototype
-[![Demonstration](http://img.youtube.com/vi/SubBu9SJkpQ/0.jpg)](http://www.youtube.com/watch?v=SubBu9SJkpQ)
+[![Demonstration](http://img.youtube.com/vi/SubBu9SJkpQ/0.jpg)]
+(http://www.youtube.com/watch?v=SubBu9SJkpQ)
+
+![Demonstration](prototype.png)
 
 Source: http://www.youtube.com/watch?v=SubBu9SJkpQ
 
