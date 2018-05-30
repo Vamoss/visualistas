@@ -30,7 +30,7 @@ This would expose the sensor to a big deal of acceleration wile connecting the u
 ### 1st Prototype
 [![Demonstration](http://img.youtube.com/vi/SubBu9SJkpQ/0.jpg)](http://www.youtube.com/watch?v=SubBu9SJkpQ)
 
-![Demonstration01](photos/01-prototype.png)
+[![Demonstration01](photos/01-prototype.png)](http://www.youtube.com/watch?v=SubBu9SJkpQ)
 
 Source: http://www.youtube.com/watch?v=SubBu9SJkpQ
 
