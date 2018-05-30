@@ -27,12 +27,10 @@ A toy that reminds us of our childhood making the connection with the user stron
 This would expose the sensor to a big deal of acceleration wile connecting the users, not only to the LED panel, but also to their childhood memories playing with "vai-vem".
 
 
-
 ### 1st Prototype
-[![Demonstration](http://img.youtube.com/vi/SubBu9SJkpQ/0.jpg)]
-(http://www.youtube.com/watch?v=SubBu9SJkpQ)
+[![Demonstration](http://img.youtube.com/vi/SubBu9SJkpQ/0.jpg)](http://www.youtube.com/watch?v=SubBu9SJkpQ)
 
-![Demonstration](photos/01-prototype.png)
+![Demonstration01](photos/01-prototype.png)
 
 Source: http://www.youtube.com/watch?v=SubBu9SJkpQ
 
