@@ -20,9 +20,7 @@ The bean+ is a wirelessly programmable microcontroller with an accelerometer sen
 
 The microcontroler was held in an acrylic sphere that could give us feedback about the information that was sent to the LED panel. Talking to the workshop leaders we decided to use the device to make a deeper connection with the user's childhood memory using common toy's logic.
 
-A toy that consists in a sphere with a role in the center that goes from one end to another. In this role there are two strings, the two players stand in opposite sides holding each end of the string on his side with one hand. When he separates his hands the sphere goes in direction of the other player.
-
-A toy that reminds us of our childhood making the connection with the user stronger.
+That toy consists in a sphere with a role in the center that goes from one end to another. In this role there are two strings, the two players stand in opposite sides holding each end of the string on his side with each hand. When he separates his hands the sphere goes in direction of the other player.
 
 This would expose the sensor to a big deal of acceleration wile connecting the users, not only to the LED panel, but also to their childhood memories playing with "vai-vem".
 
